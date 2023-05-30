@@ -23,8 +23,8 @@
 ## Output:
 ![image](https://github.com/Sangavi-suresh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541861/c7fd91d6-58f0-4c8d-8b08-1134f5beb3b0)
 
-### Name:sangavi suresh
-### Register Number:212222230130
+### Name: Sangavi Suresh
+### Register Number: 212222230130
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
