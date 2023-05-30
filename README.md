@@ -95,28 +95,33 @@ STEP 5:
 
 START PROCESS:
 
+![image](https://github.com/Sangavi-suresh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541861/9622ddc2-3c62-44d7-a5a2-fe743f3306a9)
 
+Explanation:
+Start the printing process:
+Transfer the sliced file to the 3D printer. The printer will heat the nozzle to melt the filament, which will be deposited layer by layer according to the sliced file.
 
+Build the base layer:
+The printer starts by creating a base layer, also known as a raft or brim, which provides a stable foundation for the model and helps with adhesion to the build plate.
 
+Build the model layers:
+The printer moves the nozzle in a controlled manner, extruding molten filament to create each layer. The material solidifies quickly upon deposition.
 
+Add support structures:
+If the model has overhangs or complex geometries that require support, the printer may create support structures using a different material or the same material in a different configuration.
 
+Step 6:
 
+Stop Process:
 
+![image](https://github.com/Sangavi-suresh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541861/4e054cae-f161-429c-a83a-29f479e92826)
 
+Explanation:
+Cool down and remove support:
+Once the printing is complete, the model needs to cool down to ensure stability. If support structures were used, they can be removed by hand or using appropriate tools.
 
-
-
-
-
-
-
-
-
-
-
-
-## Output:
-![image](https://github.com/Sangavi-suresh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118541861/c7fd91d6-58f0-4c8d-8b08-1134f5beb3b0)
+Post-processing:
+Depending on the desired outcome, post-processing steps such as sanding, painting, or additional finishing may be performed to enhance the appearance and functionality of the printed object.
 
 ### Name: Sangavi Suresh
 ### Register Number: 212222230130
